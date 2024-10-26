@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gjmfs" alt="gjmfs" /></a> </p>
 
-- 🔭 I’m currently working on **Hospitality Management**
+- 🔭 I’m currently working on **Building my own**
 
 - 👨‍💻 All of my projects are available at [https://www.mufees.space](https://www.mufees.space)
 
