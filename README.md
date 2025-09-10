@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building my own**
 
-- 👨‍💻 All of my projects are available at [https://www.mufees.space](https://www.mufees.space)
+- 👨‍💻 All of my projects are available at [https://www.mufees.space](https://ceo.cloudlogics.space)
 
 - 📫 How to reach me **mufeeesmhd@gmail.com**
 
